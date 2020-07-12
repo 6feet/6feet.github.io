@@ -3,9 +3,11 @@
 
 ![blinking eye](blinking_eye.gif)
 
-Keeping a safe distance from others has become our sixth sense over the course of the time of Covid-19. Third Eye is a playful wearable device designed to help people be more aware of the safe distance in public places. The device senses distances between users and sends out gentle alarms when people get closer than 6ft, through the expressive eye on a mini screen and tactile feedback. The surface of the Third Eye is made of soft material and can easily be clipped onto anywhere with built-in magnetic snaps.
+Keeping a safe distance from others has become our sixth sense over the course of the time of Covid-19. Third Eye is a playful wearable device designed to help people be more aware of the safe distance in public places. The device senses distances between users and sends out gentle alarms when people get closer than 6ft, through the expressive eye that shows different emotions on a mini screen along with tactile feedback.
 
-*A video or image of the prototype will come here*
+The design of the device was inspired by the evil eyes, an object believed to confer protection upon its possessor. 
+
+*A video or image of the prototype/testing will come here*
 
 ### Design Approaches
 
@@ -14,6 +16,9 @@ Third Eye takes a positive and hopeful approach towards this era where social di
 
 #### No privacy concerns
 Unlike other covid tracking solutions that raise privacy concerns, we do not collect any personal data from the user using the device.
+
+#### Easy and pleasant to wear
+The surface of the Third Eye is made of soft material and can easily be clipped onto anywhere with built-in magnetic snaps.
 
 #### Feel connected to each other
 Third Eye suggests a creative way of feeling connected to each other, with the expressive eyes that react to other users' presences.
