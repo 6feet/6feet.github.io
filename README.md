@@ -5,6 +5,7 @@ Keeping a safe distance from other people has become our sixth sense over the co
 
 ### Design
 
+### Applications
 
 ### Tech
 
@@ -19,7 +20,7 @@ Keeping a safe distance from other people has become our sixth sense over the co
 ### Credits
 
 
-
+_____________________________________________________________________________
 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
