@@ -25,8 +25,8 @@ Third Eye suggests a creative way of feeling connected to each other, with the e
 
 ### Use Scenario
 
-Third Eye is designed to be distributed and used at public spaces where everyone needs to be aware of the distance for everyone's safety. Each person will clip the device onto a visible place on their body, and the eye expressions will change on the screen responding to the distances between people wearing Third Eye, which will make each other be aware of each other's health.
-We're looking for museums, cultural venues, schools, and playgrounds who are interested in testing the device.
+Third Eye is designed to be distributed and used at public spaces where everyone needs to be aware of the distance for everyone's safety. Each person will clip the device onto a visible place on their body, and the eye expressions will change on the screen responding to the distances between people wearing Third Eye, which will make each other be aware of each other's health.  
+We're looking for museums, cultural venues, schools, and playgrounds who are interested in testing the device. Reach out to us at 6feet-project@googlegroups.com.
 
 *Illustrations will be added here*
 
