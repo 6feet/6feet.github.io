@@ -29,17 +29,13 @@ Third Eye is designed to be distributed and used at public spaces where everyone
 #### Hardware
 
 ### Who We Are
-We're a group of artists/designers/engineers who explore creative uses of technology.
-
-[Cedric Honnet](https://honnet.eu/)
-
-[Amitabh Shrivastava](https://tinkrmind.me/)
-
+We're a group of artists/designers/engineers who explore creative uses of technology.  
+[Cedric Honnet](https://honnet.eu/)  
+[Amitabh Shrivastava](https://tinkrmind.me/)  
 [Yeseul Song](https://yeseul.com/)
 
 ### Thanks To
-[Smart Band project by MIT Media Lab](https://mitmedialab.github.io/SmartBand/)
-
+[Smart Band project by MIT Media Lab](https://mitmedialab.github.io/SmartBand/)  
 Sharon Chang
 ...
 
