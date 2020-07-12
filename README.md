@@ -2,7 +2,7 @@
 
 You can use the [editor on GitHub](https://github.com/6feet/6feet.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Keeping a safe distance from other people has become our sixth sense over the course of the time of Covid-19. Third Eye is a playful wearable device designed to help people be more aware of the safe distance in public places, such as museums, schools, and playgrounds. The device senses distances between users and sends out gentle warnings when people get closer than 6ft, through the expressive eye on a small screen and vibration. The surface of the Third Eye is made of soft material and can easily be clipped onto anywhere with built-in magnetic snaps.
 
 ### Markdown
 
