@@ -7,7 +7,7 @@ Keeping a safe distance from others has become our sixth sense over the course o
 
 The design of the device was inspired by the evil eyes, an object believed to confer protection upon its possessor. 
 
-*A video or image of the prototype/testing will come here*
+*A video or image of the prototype/testing will be added here*
 
 ### Design Approaches
 
@@ -23,9 +23,11 @@ The surface of the Third Eye is made of soft material and can easily be clipped 
 #### Feel connected to each other
 Third Eye suggests a creative way of feeling connected to each other, with the expressive eyes that react to other users' presences.
 
-#### Use Scenario
+### Use Scenario
 
 Third Eye is designed to be distributed and used at public spaces where everyone needs to be aware of the distance for everyone's safety. We invite museums, cultural venues, schools, and playgrounds to adopt 
+
+*Illustrations will be added here*
 
 ### Tech
 
@@ -38,6 +40,9 @@ We're a group of artists/designers/engineers who explore creative uses of techno
 [Cedric Honnet](https://honnet.eu/)  
 [Amitabh Shrivastava](https://tinkrmind.me/)  
 [Yeseul Song](https://yeseul.com/)
+
+### Contact
+For press inquiries, collaborations, or any questions, please email us at 6feet-project@googlegroups.com. 
 
 ### Thanks To
 [Smart Band project by MIT Media Lab](https://mitmedialab.github.io/SmartBand/)  
