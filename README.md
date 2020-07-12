@@ -12,7 +12,7 @@ The design of the device was inspired by the evil eyes, an object believed to co
 ### Design Approaches
 
 #### Playfulness
-Third Eye takes a positive and hopeful approach towards this era where social distancing needs to be practices. Instead of proposing a dystopian future like many other covid tracking solutions do, we found a playful way to care about each other's feelings and safety. 
+Third Eye takes a positive and hopeful approach towards this era where social distancing needs to be practiced. Instead of proposing a dystopian future like many other covid tracking solutions do, we found a playful way to care about each other's feelings and safety. 
 
 #### No privacy concerns
 Unlike other covid tracking solutions that raise privacy concerns, we do not collect any personal data from the user using the device.
@@ -25,7 +25,8 @@ Third Eye suggests a creative way of feeling connected to each other, with the e
 
 ### Use Scenario
 
-Third Eye is designed to be distributed and used at public spaces where everyone needs to be aware of the distance for everyone's safety. We invite museums, cultural venues, schools, and playgrounds to adopt 
+Third Eye is designed to be distributed and used at public spaces where everyone needs to be aware of the distance for everyone's safety. Each person will clip the device onto a visible place on their body, and the eye expressions will change on the screen responding to the distances between people wearing Third Eye, which will make each other be aware of each other's health.
+We're looking for museums, cultural venues, schools, and playgrounds who are interested in testing the device.
 
 *Illustrations will be added here*
 
